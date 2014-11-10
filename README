@@ -1,8 +1,4 @@
-subtitle-generator
-==================
-
 Image Comparison Script - find the closest image in training dataset to test image
-
 ==================
 
 This is an image similarity comparison script, which uses SVM classification to find the closest image in terms of features.
